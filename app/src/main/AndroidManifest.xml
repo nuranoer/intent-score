@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="id.putraprima.skorbola">
+    package="id.fitrizuyinanurazizah.skorbola">
 
     <application
         android:allowBackup="true"
@@ -9,9 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ResultActivity"></activity>
-        <activity android:name=".MatchActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name="id.fitrizuyinanurazizah.skorbola.ResultActivity"></activity>
+        <activity android:name="id.fitrizuyinanurazizah.skorbola.MatchActivity" />
+        <activity android:name="id.fitrizuyinanurazizah.skorbola.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

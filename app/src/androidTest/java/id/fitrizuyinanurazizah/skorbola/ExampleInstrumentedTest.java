@@ -1,4 +1,4 @@
-package id.putraprima.skorbola;
+package id.fitrizuyinanurazizah.skorbola;
 
 import android.content.Context;
 
